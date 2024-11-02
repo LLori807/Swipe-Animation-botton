@@ -1,2 +1,2 @@
-# Swipe-Animation-botton
+# Swipe-Animation-button
 Swipe Animation button html-css
